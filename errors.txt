@@ -1,0 +1,9 @@
+Could not process student ID name: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/name/degrees?term=current
+Could not process student ID 2NJXFFjsL5SGyyMYvl7afSkpZJH3: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/2NJXFFjsL5SGyyMYvl7afSkpZJH3/degrees?term=current
+Could not process student ID 931704638`: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/931704638%60/degrees?term=current
+Could not process student ID 93630293: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/93630293/degrees?term=current
+Could not process student ID HSZcJhYlvkYxPqGj22HNIwAwv4q2: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/HSZcJhYlvkYxPqGj22HNIwAwv4q2/degrees?term=current
+Could not process student ID Owen Perry: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/Owen%20Perry/degrees?term=current
+Could not process student ID YeJwhH2oYZYBSwKUZKz1pxHn4GZ2: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/YeJwhH2oYZYBSwKUZKz1pxHn4GZ2/degrees?term=current
+Could not process student ID Zc5aZ80lZ4TYKUWJYQQR8Gxjxc02: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/Zc5aZ80lZ4TYKUWJYQQR8Gxjxc02/degrees?term=current
+Could not process student ID gxqr5Z6G0Ihs8vVMZ1r1ygbNxSB2: 404 Client Error: Not Found for url: https://api.oregonstate.edu/v1/students/gxqr5Z6G0Ihs8vVMZ1r1ygbNxSB2/degrees?term=current
