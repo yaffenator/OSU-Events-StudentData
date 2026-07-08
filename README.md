@@ -1,3 +1,5 @@
+# OSU Events App Student Data Program
+
 This program connects to OSU's official [Students V1 API]([url](https://developer.oregonstate.edu/api/3)), pulling data about each student's classification (grade level),
 department affiliations, and more.
 
